@@ -1,1 +1,3 @@
-Hosted on:
+SimplyRecipes is a fully responsive website which provides the recipes for various dishes.
+
+The website is live on: https://dhupianishant.github.io/RecipesFinal/
